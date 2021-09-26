@@ -1,0 +1,33 @@
+body
+{
+    color: #E9ECEF;
+}
+
+#logo
+{
+    color: brown;
+}
+
+.baslik
+{
+    color: red;
+}
+
+.jumbotron
+{
+    text-align: center;
+}
+
+.ozgurluk
+{
+    color: brown;
+}
+.ozgurluk:hover
+{
+    color: black;
+}
+
+.liste
+{
+    list-style-type:none
+}
